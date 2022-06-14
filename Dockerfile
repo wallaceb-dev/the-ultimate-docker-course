@@ -9,3 +9,4 @@ CMD node app.js
 # docker image ls -> see images on your machine
 # docker build -t hello-docker . -> it builds your customized image
 # docker run hello-docker -> it runs and execute whatever is in the specified file (app.js)
+# docker run -it hello-docker -> it runs and execute whatever is in the specified file (app.js)
